@@ -123,31 +123,37 @@ $(function(){initNavTree('Menu_8h_source.html',''); initResizable(true); });
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span></div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">addMenuItem</a>(<span class="keyword">const</span> <span class="keywordtype">char</span>* name, <span class="keywordtype">void</span> (*function)());</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span></div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keywordtype">void</span> drawMenu();</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>    <span class="keywordtype">void</span> moveUp();</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="keywordtype">void</span> moveDown();</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordtype">void</span> select();</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    <span class="keywordtype">void</span> runOption();</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> exitRequested();</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span><span class="keyword">protected</span>:</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    C12832 &amp;lcd;</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    std::vector&lt;std::pair&lt;<span class="keyword">const</span> <span class="keywordtype">char</span>*, void (*)()&gt;&gt; menu;</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keywordtype">int</span> selected_option = 1;</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keywordtype">bool</span> option_selected = <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <span class="keywordtype">bool</span> redraw_menu = <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keywordtype">bool</span> exit_requested = <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>};</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">drawMenu</a>();</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span></div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">moveUp</a>();</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span></div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abbec620bd41608fba287400ead4467aa">moveDown</a>();</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    </div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">select</a>();</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span></div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">runOption</a>();</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span></div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_function" href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">exitRequested</a>();</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span> </div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span><span class="keyword">protected</span>:</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    C12832 &amp;lcd;</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>    std::vector&lt;std::pair&lt;<span class="keyword">const</span> <span class="keywordtype">char</span>*, void (*)()&gt;&gt; menu;</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    <span class="keywordtype">int</span> selected_option = 1;</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    <span class="keywordtype">bool</span> option_selected = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keywordtype">bool</span> redraw_menu = <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    <span class="keywordtype">bool</span> exit_requested = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>};</div>
 </div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclassMenu_html_a06aa310db0ce0373a6b5fed1be8cd500"><div class="ttname"><a href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">Menu::select</a></div><div class="ttdeci">void select()</div><div class="ttdef"><b>Definition</b> Menu.cpp:60</div></div>
+<div class="ttc" id="aclassMenu_html_a0fed6c02b7de1b1a9cdf08bd5c1a0e96"><div class="ttname"><a href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">Menu::runOption</a></div><div class="ttdeci">void runOption()</div><div class="ttdef"><b>Definition</b> Menu.cpp:64</div></div>
 <div class="ttc" id="aclassMenu_html_a35656cd130e24d69383a5c9d0a73a38c"><div class="ttname"><a href="classMenu.html#a35656cd130e24d69383a5c9d0a73a38c">Menu::run</a></div><div class="ttdeci">void run()</div><div class="ttdef"><b>Definition</b> Menu.cpp:6</div></div>
+<div class="ttc" id="aclassMenu_html_a5ae056550559d12f8e542f9489dc9fa1"><div class="ttname"><a href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">Menu::exitRequested</a></div><div class="ttdeci">bool const exitRequested()</div><div class="ttdef"><b>Definition</b> Menu.cpp:76</div></div>
 <div class="ttc" id="aclassMenu_html_a6b4be36a23ea95311eeb67493e8b466e"><div class="ttname"><a href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">Menu::addMenuItem</a></div><div class="ttdeci">void addMenuItem(const char *name, void(*function)())</div><div class="ttdef"><b>Definition</b> Menu.cpp:18</div></div>
+<div class="ttc" id="aclassMenu_html_a9df102abcebc51e69c4728dc3d3c3be0"><div class="ttname"><a href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">Menu::drawMenu</a></div><div class="ttdeci">void drawMenu()</div><div class="ttdef"><b>Definition</b> Menu.cpp:22</div></div>
+<div class="ttc" id="aclassMenu_html_abbec620bd41608fba287400ead4467aa"><div class="ttname"><a href="classMenu.html#abbec620bd41608fba287400ead4467aa">Menu::moveDown</a></div><div class="ttdeci">void moveDown()</div><div class="ttdef"><b>Definition</b> Menu.cpp:50</div></div>
+<div class="ttc" id="aclassMenu_html_abfa1619b1d868d85b3978f5918c2a56f"><div class="ttname"><a href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">Menu::moveUp</a></div><div class="ttdeci">void moveUp()</div><div class="ttdef"><b>Definition</b> Menu.cpp:43</div></div>
 <div class="ttc" id="aclassMenu_html_ae5240346d3c28bb6d2c06874013d4375"><div class="ttname"><a href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu::Menu</a></div><div class="ttdeci">Menu(C12832 &amp;lcd)</div><div class="ttdef"><b>Definition</b> Menu.cpp:3</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

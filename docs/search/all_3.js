@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['run_0',['run',['../classMenu.html#a35656cd130e24d69383a5c9d0a73a38c',1,'Menu']]]
+  ['exitrequested_0',['exitRequested',['../classMenu.html#a5ae056550559d12f8e542f9489dc9fa1',1,'Menu']]]
 ];

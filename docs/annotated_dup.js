@@ -1,6 +1,6 @@
 var annotated_dup =
 [
-    [ "Buffer", "classBuffer.html", null ],
+    [ "Buffer", "classBuffer.html", "classBuffer" ],
     [ "Menu", "classMenu.html", "classMenu" ],
     [ "Motor", "classMotor.html", "classMotor" ],
     [ "Motors", "classMotors.html", null ],

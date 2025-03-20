@@ -1,4 +1,11 @@
 var searchData=
 [
-  ['invert_0',['invert',['../classC12832.html#a9edf54fe8da5a23c69197874652172f6',1,'C12832']]]
+  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['select_1',['select',['../classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500',1,'Menu']]],
+  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
+  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
+  ['stop_5',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
+  ['switchtobackward_6',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
+  ['switchtoforward_7',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
 ];
