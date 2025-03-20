@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['motor_0',['Motor',['../classMotor.html#a60943f51cae892e394ecf4efd2d700bd',1,'Motor']]]
+  ['addmenuitem_0',['addMenuItem',['../classMenu.html#a6b4be36a23ea95311eeb67493e8b466e',1,'Menu']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['led_0',['LED',['../classLED.html',1,'']]]
+  ['buffer_0',['Buffer',['../classBuffer.html',1,'']]]
 ];

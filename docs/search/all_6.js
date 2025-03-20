@@ -1,9 +1,11 @@
 var searchData=
 [
-  ['get_5fauto_5fup_0',['get_auto_up',['../classC12832.html#a714cf10033e956108e134647f74f40e9',1,'C12832']]],
-  ['get_5fcontrast_1',['get_contrast',['../classC12832.html#a7d3503d1fd0b7a9c13e8ed58a4f2bad2',1,'C12832']]],
-  ['getcurrentstate_2',['getCurrentState',['../classQEI.html#a454939fb817516ad4a91b65cda752204',1,'QEI']]],
-  ['getpulses_3',['getPulses',['../classQEI.html#aa1dcb3763c863233b72ad2ab8bbd7531',1,'QEI']]],
-  ['getrevolutions_4',['getRevolutions',['../classQEI.html#abb9652bbe7e58905c08293a82db819cd',1,'QEI']]],
-  ['graphicsdisplay_5',['GraphicsDisplay',['../classGraphicsDisplay.html',1,'']]]
+  ['samplingpotentiometer_0',['SamplingPotentiometer',['../classSamplingPotentiometer.html',1,'']]],
+  ['samplingsensor_1',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
+  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
+  ['stop_5',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
+  ['switchtobackward_6',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
+  ['switchtoforward_7',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
 ];

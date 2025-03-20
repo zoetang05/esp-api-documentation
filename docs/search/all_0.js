@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['buffer_0',['Buffer',['../classBuffer.html',1,'']]]
+  ['addmenuitem_0',['addMenuItem',['../classMenu.html#a6b4be36a23ea95311eeb67493e8b466e',1,'Menu']]]
 ];
