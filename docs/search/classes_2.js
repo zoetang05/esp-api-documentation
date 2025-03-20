@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['menu_0',['Menu',['../classMenu.html',1,'']]],
-  ['motor_1',['Motor',['../classMotor.html',1,'']]],
-  ['motors_2',['Motors',['../classMotors.html',1,'']]]
+  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['sensor_1',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_2',['Sensors',['../classSensors.html',1,'']]]
 ];

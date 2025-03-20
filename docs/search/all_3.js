@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['menu_0',['Menu',['../classMenu.html',1,'Menu'],['../classMenu.html#ae5240346d3c28bb6d2c06874013d4375',1,'Menu::Menu()']]],
-  ['motor_1',['Motor',['../classMotor.html',1,'Motor'],['../classMotor.html#a60943f51cae892e394ecf4efd2d700bd',1,'Motor::Motor()']]],
-  ['motors_2',['Motors',['../classMotors.html',1,'']]]
+  ['run_0',['run',['../classMenu.html#a35656cd130e24d69383a5c9d0a73a38c',1,'Menu']]]
 ];
