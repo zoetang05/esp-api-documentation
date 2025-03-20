@@ -25,16 +25,10 @@
 var NAVTREE =
 [
   [ "ESP API Documentation", "index.html", [
-    [ "Contributing to Mbed OS", "md__2home_2zoe_2Mbed_01Programs_2esp-tests-mbed6_2CONTRIBUTING.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
-      ] ]
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]
@@ -44,7 +38,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"C12832_8h_source.html"
+"LED_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

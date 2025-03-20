@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['example_0',['Bare metal blinky Mbed OS example',['..//home/zoe/Mbed Programs/esp-tests-mbed6/README.md#autotoc_md1',1,'']]],
-  ['expected_20output_1',['Expected output',['..//home/zoe/Mbed Programs/esp-tests-mbed6/README.md#autotoc_md4',1,'']]]
+  ['samplingpotentiometer_0',['SamplingPotentiometer',['../classSamplingPotentiometer.html',1,'']]],
+  ['samplingsensor_1',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_3',['Sensors',['../classSensors.html',1,'']]]
 ];

@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['menu_0',['Menu',['../classMenu.html',1,'']]],
-  ['motor_1',['Motor',['../classMotor.html',1,'']]],
-  ['motors_2',['Motors',['../classMotors.html',1,'']]]
+  ['samplingpotentiometer_0',['SamplingPotentiometer',['../classSamplingPotentiometer.html',1,'']]],
+  ['samplingsensor_1',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_3',['Sensors',['../classSensors.html',1,'']]]
 ];

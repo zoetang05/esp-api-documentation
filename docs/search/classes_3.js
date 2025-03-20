@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['led_0',['LED',['../classLED.html',1,'']]]
+  ['potentiometer_0',['Potentiometer',['../classPotentiometer.html',1,'']]]
 ];
