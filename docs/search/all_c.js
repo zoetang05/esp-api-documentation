@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['pixel_0',['pixel',['../classC12832.html#aaeaf8646b0531fd65cd664b8a48ec39f',1,'C12832']]],
-  ['potentiometer_1',['Potentiometer',['../classPotentiometer.html',1,'']]],
-  ['print_5fbm_2',['print_bm',['../classC12832.html#a4669a700e277c042fa592736bb839002',1,'C12832']]],
-  ['printf_20library_3',['Using Mbed minimal printf library',['..//home/zoe/Mbed Programs/esp-tests-mbed6/README.md#autotoc_md9',1,'']]],
-  ['profile_4',['The bare metal profile',['..//home/zoe/Mbed Programs/esp-tests-mbed6/README.md#autotoc_md6',1,'']]]
+  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
+  ['select_1',['select',['../classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500',1,'Menu']]],
+  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
+  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
+  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
+  ['smaller_20c_20libraries_5',['Linking with smaller C libraries',['../index.html#autotoc_md7',1,'']]],
+  ['stop_6',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
+  ['switchtobackward_7',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
+  ['switchtoforward_8',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
 ];

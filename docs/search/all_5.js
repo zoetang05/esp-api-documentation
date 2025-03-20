@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['menu_0',['Menu',['../classMenu.html',1,'Menu'],['../classMenu.html#ae5240346d3c28bb6d2c06874013d4375',1,'Menu::Menu()']]],
-  ['motor_1',['Motor',['../classMotor.html',1,'Motor'],['../classMotor.html#a60943f51cae892e394ecf4efd2d700bd',1,'Motor::Motor()']]],
-  ['motors_2',['Motors',['../classMotors.html',1,'']]],
-  ['movedown_3',['moveDown',['../classMenu.html#abbec620bd41608fba287400ead4467aa',1,'Menu']]],
-  ['moveup_4',['moveUp',['../classMenu.html#abfa1619b1d868d85b3978f5918c2a56f',1,'Menu']]]
+  ['getaverage_0',['getAverage',['../classBuffer.html#ae74bc34f36a001f37f2d8a0250ea29f2',1,'Buffer']]],
+  ['getaveragenoanomalies_1',['getAverageNoAnomalies',['../classBuffer.html#add8dacf5e2a8b9f4ff4f4e2a915b7ff9',1,'Buffer']]],
+  ['group_2036_2',['ESP Group 36',['../index.html#autotoc_md0',1,'']]]
 ];

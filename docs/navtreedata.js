@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "ESP API Documentation", "index.html", [
+    [ "ESP Group 36", "index.html#autotoc_md0", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

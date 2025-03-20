@@ -1,11 +1,5 @@
 var searchData=
 [
-  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
-  ['select_1',['select',['../classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500',1,'Menu']]],
-  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
-  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
-  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
-  ['stop_5',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
-  ['switchtobackward_6',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
-  ['switchtoforward_7',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
+  ['run_0',['run',['../classMenu.html#a35656cd130e24d69383a5c9d0a73a38c',1,'Menu']]],
+  ['runoption_1',['runOption',['../classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96',1,'Menu']]]
 ];

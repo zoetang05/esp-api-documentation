@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['drawmenu_0',['drawMenu',['../classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0',1,'Menu']]]
+  ['buffer_0',['Buffer',['../classBuffer.html',1,'Buffer'],['../classBuffer.html#ae7ef2cd201190fde551dcb902627112b',1,'Buffer::Buffer()']]]
 ];

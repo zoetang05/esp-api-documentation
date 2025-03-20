@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['getaverage_0',['getAverage',['../classBuffer.html#ae74bc34f36a001f37f2d8a0250ea29f2',1,'Buffer']]],
-  ['getaveragenoanomalies_1',['getAverageNoAnomalies',['../classBuffer.html#add8dacf5e2a8b9f4ff4f4e2a915b7ff9',1,'Buffer']]]
+  ['esp_20api_20documentation_0',['ESP API Documentation',['../index.html',1,'']]],
+  ['esp_20group_2036_1',['ESP Group 36',['../index.html#autotoc_md0',1,'']]],
+  ['exitrequested_2',['exitRequested',['../classMenu.html#a5ae056550559d12f8e542f9489dc9fa1',1,'Menu']]]
 ];

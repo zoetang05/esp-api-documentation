@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['buffer_0',['Buffer',['../classBuffer.html',1,'Buffer'],['../classBuffer.html#ae7ef2cd201190fde551dcb902627112b',1,'Buffer::Buffer()']]]
+  ['addmenuitem_0',['addMenuItem',['../classMenu.html#a6b4be36a23ea95311eeb67493e8b466e',1,'Menu']]],
+  ['api_20documentation_1',['ESP API Documentation',['../index.html',1,'']]]
 ];
