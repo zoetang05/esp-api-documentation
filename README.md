@@ -7,7 +7,7 @@ doxygen Doxyfile
 `Doxyfile` points to the source code folder.
 
 ```shell
-git commit -am "update"; git push
+git add -A; git commit -m "update"; git push
 ```
 
 Commit and push the regenerated documentation.
