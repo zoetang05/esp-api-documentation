@@ -3,7 +3,7 @@ var annotated_dup =
     [ "Buffer", "classBuffer.html", null ],
     [ "LED", "classLED.html", null ],
     [ "Menu", "classMenu.html", null ],
-    [ "Motor", "classMotor.html", null ],
+    [ "Motor", "classMotor.html", "classMotor" ],
     [ "Motors", "classMotors.html", null ],
     [ "Potentiometer", "classPotentiometer.html", null ],
     [ "SamplingPotentiometer", "classSamplingPotentiometer.html", null ],
