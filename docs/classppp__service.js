@@ -1,0 +1,26 @@
+var classppp__service =
+[
+    [ "ppp_link_input_cb_t", "classppp__service.html#a0fea8ed96b314ad3309d47f93a5d5202", null ],
+    [ "ppp_link_state_change_cb_t", "classppp__service.html#a8cfe7c00eb7530643fe1c192bd0a4dc6", null ],
+    [ "event_queue_get", "classppp__service.html#a52cae55875d2d1af5f058ea4a0c76c13", null ],
+    [ "get_align_preference", "classppp__service.html#a8addb491ce51a1525ee749c89d18ae46", null ],
+    [ "get_dns_server", "classppp__service.html#a1e6e5e0aaace855691a6f57b9696cf0d", null ],
+    [ "get_gateway", "classppp__service.html#a6839d3bbd871758808fa3332cde3c87c", null ],
+    [ "get_ifname", "classppp__service.html#a5cc2ef734224c26828f87645328e3892", null ],
+    [ "get_ip_address", "classppp__service.html#a7bdc681ef06dc3e525ac0ce88e0baa00", null ],
+    [ "get_mtu_size", "classppp__service.html#ae8242ca5d1f65c96c4132496e5909273", null ],
+    [ "get_netmask", "classppp__service.html#a72dcaf16518b0ab56192c6ce6b596099", null ],
+    [ "link_input", "classppp__service.html#a076b6835d12db55233471fa29f45dfff", null ],
+    [ "link_out", "classppp__service.html#a39f16a15e43b054e21f48cc2fdcd4459", null ],
+    [ "link_state", "classppp__service.html#a3852e9bf8ad44c7cce5006592c404d38", null ],
+    [ "power_down", "classppp__service.html#ada53efbf0b1079ada6ec197dded95006", null ],
+    [ "power_up", "classppp__service.html#a3b682fb3769344c1ee7500f21b2c2b82", null ],
+    [ "resource_lock", "classppp__service.html#a4f8042365dd613d2d0f44f9c3e578386", null ],
+    [ "resource_unlock", "classppp__service.html#a8dc9895e2c1615558e28e83d85d4b783", null ],
+    [ "set_credentials", "classppp__service.html#a8b4885a31d37b2030aa1a0d1375efe85", null ],
+    [ "set_ip_stack", "classppp__service.html#a0588baa876e7301eabdae4ce671f7e50", null ],
+    [ "set_link_input_cb", "classppp__service.html#a610a7503f9b56bde5338ed2146bd0893", null ],
+    [ "set_link_state_cb", "classppp__service.html#ac9f581952bc42cc0efacbe4ac07659a1", null ],
+    [ "set_memory_manager", "classppp__service.html#aa824311313284dd6e56f366ea036a0fd", null ],
+    [ "set_stream", "classppp__service.html#a45d28fdb25e3d7b3e80b3046c3282946", null ]
+];

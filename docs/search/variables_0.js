@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['_5fspi_0',['_spi',['../classC12832.html#a87e2ede7863a8feb4466877c2d0d7119',1,'C12832']]]
+  ['bipolar_0',['bipolar',['../classMotor.html#ad14a827a39a6063f43678e28f14e3e7d',1,'Motor']]],
+  ['buf_1',['buf',['../classSensor.html#a87ab3be9086e35c956a126bde17e11b0',1,'Sensor']]]
 ];

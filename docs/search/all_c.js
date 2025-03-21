@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
-  ['select_1',['select',['../classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500',1,'Menu']]],
-  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
-  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
-  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
-  ['smaller_20c_20libraries_5',['Linking with smaller C libraries',['../index.html#autotoc_md7',1,'']]],
-  ['stop_6',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
-  ['switchtobackward_7',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
-  ['switchtoforward_8',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
+  ['redraw_5fmenu_0',['redraw_menu',['../classMenu.html#a8d832e5a40406b4e1cb34b07868fbbd8',1,'Menu']]],
+  ['resetencoders_1',['resetEncoders',['../classMotors.html#ab72d6d6cfe263004f3d99a14c1dc8b2f',1,'Motors']]],
+  ['reverse_2',['reverse',['../classMotor.html#a6a289504aa9e947ee14953f6066cab64',1,'Motor']]],
+  ['right_3',['right',['../classMotors.html#aba41d7b59bcc7a183ef94687900c4245',1,'Motors']]],
+  ['run_4',['run',['../classMenu.html#a35656cd130e24d69383a5c9d0a73a38c',1,'Menu']]],
+  ['runoption_5',['runOption',['../classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96',1,'Menu']]]
 ];

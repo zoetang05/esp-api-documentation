@@ -1,0 +1,27 @@
+var classDiscoveredCharacteristic =
+[
+    [ "Properties_t", "structDiscoveredCharacteristic_1_1Properties__t.html", "structDiscoveredCharacteristic_1_1Properties__t" ],
+    [ "discoverDescriptors", "classDiscoveredCharacteristic.html#a867151e3c79912dba66a7e7de846aea8", null ],
+    [ "getConnectionHandle", "classDiscoveredCharacteristic.html#ad22da44dfdc277e16dbe60041fa709b2", null ],
+    [ "getDeclHandle", "classDiscoveredCharacteristic.html#a1ca39720b72ca2b7a0e0d3e9a60f3e17", null ],
+    [ "getGattClient", "classDiscoveredCharacteristic.html#a11790017a69bb361d13c98982354625f", null ],
+    [ "getGattClient", "classDiscoveredCharacteristic.html#a5159d96dd1260d2c821403bc1cc3edf0", null ],
+    [ "getLastHandle", "classDiscoveredCharacteristic.html#a5378daad3c433c0b5001b04a0e7e67cd", null ],
+    [ "getProperties", "classDiscoveredCharacteristic.html#a2cc9996f8e334c5e5d06bba1a25ba14d", null ],
+    [ "getUUID", "classDiscoveredCharacteristic.html#a2470bb54c29fdd128a44fec346d412ee", null ],
+    [ "getValueHandle", "classDiscoveredCharacteristic.html#a9293df13a8510fec37505bfd15b5b46d", null ],
+    [ "read", "classDiscoveredCharacteristic.html#ac14575db2094593f0ffbd657b048456a", null ],
+    [ "read", "classDiscoveredCharacteristic.html#a41b642e4f064b2c6edc904866e8a88e9", null ],
+    [ "write", "classDiscoveredCharacteristic.html#a04036dd4867ef32dcf8137fed4c4e720", null ],
+    [ "write", "classDiscoveredCharacteristic.html#a08ac1b37ed1f56ab435f921678d17be6", null ],
+    [ "writeWoResponse", "classDiscoveredCharacteristic.html#aa49bd958e9b7499363cf92399d44ed09", null ],
+    [ "operator!=", "classDiscoveredCharacteristic.html#a7fd764f1e2be11133ea8114879dcdd59", null ],
+    [ "operator==", "classDiscoveredCharacteristic.html#a7c99d88e6748b3aa2c8ef625d73fec02", null ],
+    [ "connHandle", "classDiscoveredCharacteristic.html#abfa882c3e596c2b2f5bec2c08656225d", null ],
+    [ "declHandle", "classDiscoveredCharacteristic.html#a1453970eb432323bf8e0b8da442256d9", null ],
+    [ "gattc", "classDiscoveredCharacteristic.html#a1020e2b38ae8dd66740cf2c917b5aa94", null ],
+    [ "lastHandle", "classDiscoveredCharacteristic.html#a05ebe763d23d8493f1e4dbd436ee24d4", null ],
+    [ "props", "classDiscoveredCharacteristic.html#af12b94a60330a067f6e8624631cf061d", null ],
+    [ "uuid", "classDiscoveredCharacteristic.html#affb09152cf8b9c66e11655f61139bcb5", null ],
+    [ "valueHandle", "classDiscoveredCharacteristic.html#ad33e85a1c5f28b305794bc1f37afefd2", null ]
+];

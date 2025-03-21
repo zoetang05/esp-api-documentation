@@ -1,0 +1,36 @@
+var group__GATT__AND__GAP__SERVICE =
+[
+    [ "GAP_END_HDL", "group__GATT__AND__GAP__SERVICE.html#gaac3fdc5027990da8012e6d58625734b2", null ],
+    [ "GAP_START_HDL", "group__GATT__AND__GAP__SERVICE.html#ga2a3a277ad4fdbd7c3297f3e2171f43b0", null ],
+    [ "GATT_END_HDL", "group__GATT__AND__GAP__SERVICE.html#ga14207e710d52817af680ef31b97efcc4", null ],
+    [ "GATT_START_HDL", "group__GATT__AND__GAP__SERVICE.html#gadae016ff8dad088192b372250fb2d9d4", [
+      [ "GATT_SVC_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0abe960a0abc19842050d61408d468ed24", null ],
+      [ "GATT_SC_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0a0da17f1ac982533afcd6a38ddcd7bb7e", null ],
+      [ "GATT_SC_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0af29b0a408646c4ce5ba4fb5006916286", null ],
+      [ "GATT_SC_CH_CCC_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0a739e81b8db142cc36b345774deadfa2f", null ],
+      [ "GATT_CSF_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0a4d61bd03b76ae8f1a2086272c979fd02", null ],
+      [ "GATT_CSF_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0ad9f55813600891a7dfef364939c31b7d", null ],
+      [ "GATT_DBH_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0a3a1f45ad3d851ab3b3d4121e8cb40877", null ],
+      [ "GATT_DBH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0ae17dc80854e273c3ef7959fadac9740d", null ],
+      [ "GATT_SSF_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0ad5df763a1a3e165aa322cd4d98ee129f", null ],
+      [ "GATT_SSF_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0af35a4b9ec8199910ab5459be4143af57", null ],
+      [ "GATT_MAX_HDL", "group__GATT__AND__GAP__SERVICE.html#gga5227aa255eeafd61869cb927715086c0afe790fce98f58c732f08f9923f76c07b", null ],
+      [ "GAP_SVC_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4ca4ba750058139d512f58368ede9031a10", null ],
+      [ "GAP_DN_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4ca11c004560d7940d16cecf67a981e1634", null ],
+      [ "GAP_DN_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4cab02712809f799537c4ab8315e4ed8e82", null ],
+      [ "GAP_AP_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4caabd6998b08d573ada36094f8c8084238", null ],
+      [ "GAP_AP_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4cacdbd40b5749623ed5e927ffc9a2eca5f", null ],
+      [ "GAP_CAR_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4ca84bda9bb614fe27ee4b7d988a0211daa", null ],
+      [ "GAP_CAR_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4ca29a0495e6455969e1b65bd86e8543f18", null ],
+      [ "GAP_RPAO_CH_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4caea5ec2d05c57454c650ee169441f9615", null ],
+      [ "GAP_RPAO_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4caa6f9de27e0e6c5ac5daf05663b2e78bb", null ],
+      [ "GAP_MAX_HDL", "group__GATT__AND__GAP__SERVICE.html#gga0adaf285897fbb1440d1be415e6b8c4ca9c365be96447018f33396ac679cf0464", null ]
+    ] ],
+    [ "SvcCoreAddGroup", "group__GATT__AND__GAP__SERVICE.html#ga40f18f82c18b0f503719aeaf811eda5f", null ],
+    [ "SvcCoreGapAddRpaoCh", "group__GATT__AND__GAP__SERVICE.html#ga0a989c08ca71513e3040f315ad0f9472", null ],
+    [ "SvcCoreGapCbackRegister", "group__GATT__AND__GAP__SERVICE.html#gad0e31e2f51a03c54d46737f2ffae63c3", null ],
+    [ "SvcCoreGapCentAddrResUpdate", "group__GATT__AND__GAP__SERVICE.html#ga1064ac2c1a95eb28552f247a2d84fb3a", null ],
+    [ "SvcCoreGattCbackRegister", "group__GATT__AND__GAP__SERVICE.html#gadcd42764365e0ad2fe95ee343dbacda0", null ],
+    [ "SvcCoreGattSetSsf", "group__GATT__AND__GAP__SERVICE.html#ga3cf8d8c188b96dc3096caa51e7015026", null ],
+    [ "SvcCoreRemoveGroup", "group__GATT__AND__GAP__SERVICE.html#gaba7f8078ce6961f40468e5a74d3905cc", null ]
+];

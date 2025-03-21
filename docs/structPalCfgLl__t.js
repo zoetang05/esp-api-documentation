@@ -1,0 +1,27 @@
+var structPalCfgLl__t =
+[
+    [ "auxDelayUsec", "structPalCfgLl__t.html#a882dbfd5f97ead829074027c62af400e", null ],
+    [ "auxPtrOffsetUsec", "structPalCfgLl__t.html#a45448778eaef505677da4ee34b1c19d3", null ],
+    [ "ceJitterUsec", "structPalCfgLl__t.html#ac4053d90b6953f585988d3ab646a2c5a", null ],
+    [ "cisSubEvtSpaceDelay", "structPalCfgLl__t.html#ad6c8664c584e3de047afc8290282d81a", null ],
+    [ "defExtAdvDataFragLen", "structPalCfgLl__t.html#a82f0a3be05aeaaa606ea17b56781f0c4", null ],
+    [ "defTxPwrLvl", "structPalCfgLl__t.html#a1e0a6e09cdac3b13143a76037ed855a3", null ],
+    [ "dtmRxSyncMs", "structPalCfgLl__t.html#aac5001dc42f0b58ba4b864db5d086cf3", null ],
+    [ "maxAclLen", "structPalCfgLl__t.html#a79bbf3b785ef1d4c55de79b15fd71bdd", null ],
+    [ "maxAdvReports", "structPalCfgLl__t.html#a045849804cc880b7cd249c5b84314e8e", null ],
+    [ "maxAdvSets", "structPalCfgLl__t.html#a017ab4a0b371fbd856ea72a4d56a9b77", null ],
+    [ "maxBig", "structPalCfgLl__t.html#a179a721a9fabc6118e4271a96fd5dbb2", null ],
+    [ "maxBis", "structPalCfgLl__t.html#a26bee42ecad66f7f0a05866ab11db4c0", null ],
+    [ "maxCig", "structPalCfgLl__t.html#a425e7a32db3d82dad4a317a40aff6f56", null ],
+    [ "maxCis", "structPalCfgLl__t.html#abba585aa664fa36cc09b1f79072d6bfe", null ],
+    [ "maxConn", "structPalCfgLl__t.html#af74fa86eb633055c076791cd341f367c", null ],
+    [ "maxExtAdvDataLen", "structPalCfgLl__t.html#aa42802c9311740618aa3b0767527bd42", null ],
+    [ "maxExtScanDataLen", "structPalCfgLl__t.html#a20e6185f8b74b0c95b20c8b552d25058", null ],
+    [ "maxIsoPduLen", "structPalCfgLl__t.html#afd27e804a1e339add7ed53e624be3968", null ],
+    [ "maxIsoSduLen", "structPalCfgLl__t.html#a715242a2f4c7ac1ec00e9ed168961710", null ],
+    [ "maxScanReqRcvdEvt", "structPalCfgLl__t.html#a379b970c441947a973a036aca89caab1", null ],
+    [ "numIsoRxBuf", "structPalCfgLl__t.html#af46b75aca968d929b7fc0fd21a162903", null ],
+    [ "numIsoTxBuf", "structPalCfgLl__t.html#a6de2752498ea2c6f8319c4e09fb0e94a", null ],
+    [ "numRxBufs", "structPalCfgLl__t.html#a54b16ff6dd920578141eae5c4e945cc3", null ],
+    [ "numTxBufs", "structPalCfgLl__t.html#ad3db1682d12fb19bc9c5204784531a92", null ]
+];

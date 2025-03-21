@@ -1,0 +1,27 @@
+var unionAPSR__Type =
+[
+    [ "_reserved0", "group__CMSIS__core__DebugFunctions.html#gafbce95646fd514c10aa85ec0a33db728", null ],
+    [ "_reserved1", "group__CMSIS__core__DebugFunctions.html#gac681f266e20b3b3591b961e13633ae13", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gafee0af3d42b3dca978bc3e72c5bff2c6", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#gac8ec8b93425cb9b87ccd0a1ebf315284", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gaaf91d8297d1c1664682f0f08e108d184", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#ga226ac15eec8cf245d2b3981530caaec0", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#ga6474d017b672a5a14c0971bcbebe2438", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#ga0460b9cb9000a4019dcee36e4e8a7da3", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#gaedbe7a0c3cdb1f13bc4b1f675629b501", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gaf555e0de886243cb8c22ef54b082c868", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gad9f872ea7a78c63c668c20d259e38238", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#ga76d217504b4dfb4b589936814dc6f68b", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gac52eb50f2f1c5f3b2b7d68c6f58b5df6", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gaa2ba04deceabc1b02e0c5f412868c41c", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#gaeabb1af1c7b0acda899b27b6a19f698d", null ],
+    [ "b", "group__CMSIS__Core__SysTickFunctions.html#gae94f4a016c2ee3a136cb3e08dda66132", null ],
+    [ "b", "group__CMSIS__core__DebugFunctions.html#ga81c7d361c5a5ad8c9984bd3dab1c80ef", null ],
+    [ "C", "group__CMSIS__core__DebugFunctions.html#ga86e2c5b891ecef1ab55b1edac0da79a6", null ],
+    [ "GE", "group__CMSIS__core__DebugFunctions.html#gadcb98a5b9c93b0cb69cdb7af5638f32e", null ],
+    [ "N", "group__CMSIS__core__DebugFunctions.html#ga7e7bbba9b00b0bb3283dc07f1abe37e0", null ],
+    [ "Q", "group__CMSIS__core__DebugFunctions.html#ga22d10913489d24ab08bd83457daa88de", null ],
+    [ "V", "group__CMSIS__core__DebugFunctions.html#ga8004d224aacb78ca37774c35f9156e7e", null ],
+    [ "w", "group__CMSIS__core__DebugFunctions.html#gae4c2ef8c9430d7b7bef5cbfbbaed3a94", null ],
+    [ "Z", "group__CMSIS__core__DebugFunctions.html#ga3b04d58738b66a28ff13f23d8b0ba7e5", null ]
+];

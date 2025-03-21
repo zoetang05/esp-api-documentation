@@ -1,11 +1,9 @@
 var searchData=
 [
-  ['samplingsensor_0',['SamplingSensor',['../classSamplingSensor.html',1,'']]],
-  ['select_1',['select',['../classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500',1,'Menu']]],
-  ['sensor_2',['Sensor',['../classSensor.html',1,'']]],
-  ['sensors_3',['Sensors',['../classSensors.html',1,'']]],
-  ['setspeed_4',['setSpeed',['../classMotor.html#a05558d30f775b3a62fe9b14d15ad2105',1,'Motor']]],
-  ['stop_5',['stop',['../classMotor.html#a015fd5308d4d27e5dcf7f9ea3d5c03f6',1,'Motor']]],
-  ['switchtobackward_6',['switchToBackward',['../classMotor.html#a8dcb6097456040453625994a695376bf',1,'Motor']]],
-  ['switchtoforward_7',['switchToForward',['../classMotor.html#a04a7fbed886274ff8227cbf52b843250',1,'Motor']]]
+  ['menu_0',['Menu',['../classMenu.html',1,'Menu'],['../classMenu.html#ae5240346d3c28bb6d2c06874013d4375',1,'Menu::Menu(C12832 &amp;lcd)']]],
+  ['menu_1',['menu',['../classMenu.html#aba7213d945b53ca06668bba69d8124f0',1,'Menu']]],
+  ['motor_2',['Motor',['../classMotor.html',1,'Motor'],['../classMotor.html#a60943f51cae892e394ecf4efd2d700bd',1,'Motor::Motor()']]],
+  ['motors_3',['Motors',['../classMotors.html',1,'Motors'],['../classMotors.html#a46dbee59748b6d937662199e804f276a',1,'Motors::Motors()']]],
+  ['movedown_4',['moveDown',['../classMenu.html#abbec620bd41608fba287400ead4467aa',1,'Menu']]],
+  ['moveup_5',['moveUp',['../classMenu.html#abfa1619b1d868d85b3978f5918c2a56f',1,'Menu']]]
 ];

@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['related_20links_0',['Related links',['../index.html#autotoc_md12',1,'']]],
-  ['run_1',['run',['../classMenu.html#a35656cd130e24d69383a5c9d0a73a38c',1,'Menu']]],
-  ['running_2',['Building and running',['../index.html#autotoc_md2',1,'']]],
-  ['runoption_3',['runOption',['../classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96',1,'Menu']]]
+  ['period_0',['period',['../classMotor.html#a1d65a54430028041a1e29b56fef5b4a9',1,'Motor']]],
+  ['put_1',['put',['../classBuffer.html#a8528d3203b5fe5f13bb5aeb8e547f3b5',1,'Buffer']]],
+  ['pwm_2',['pwm',['../classMotor.html#a88e22e3592f34c1b2abeb79c7bb2cc0c',1,'Motor']]]
 ];

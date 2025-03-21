@@ -1,0 +1,27 @@
+var classUSBAudio =
+[
+    [ "AsyncRead", "classUSBAudio_1_1AsyncRead.html", "classUSBAudio_1_1AsyncRead" ],
+    [ "AsyncWrite", "classUSBAudio_1_1AsyncWrite.html", "classUSBAudio_1_1AsyncWrite" ],
+    [ "USBAudio", "classUSBAudio.html#a0184cefe42732acd9d34c4b6038c8d9e", null ],
+    [ "USBAudio", "classUSBAudio.html#ad4bc6b305a9787a864e2bdb93a77bf87", null ],
+    [ "~USBAudio", "classUSBAudio.html#a8de0992eabc12f0dc0f92b4e340dabfc", null ],
+    [ "attach", "classUSBAudio.html#a9551ab75a37526bbc6f38f4d885f0e38", null ],
+    [ "attach_rx", "classUSBAudio.html#a68f8e835b28d461281c2f4ad2faa57d7", null ],
+    [ "attach_tx", "classUSBAudio.html#ad6ece8d93a9690d4034a87e582ddf908", null ],
+    [ "callback_request", "classUSBAudio.html#ae8ffaa7b49ca2aedf86f5c2f77980be2", null ],
+    [ "callback_request_xfer_done", "classUSBAudio.html#abf504c2891b097fdedb37513a6b43fd6", null ],
+    [ "callback_state_change", "classUSBAudio.html#a17e51ca022bc806641d88a8d044fc609", null ],
+    [ "connect", "classUSBAudio.html#a5d0df75f8b8e99978331855cf37215d5", null ],
+    [ "disconnect", "classUSBAudio.html#a1687b7c03a895b516b2985c223dfe171", null ],
+    [ "get_volume", "classUSBAudio.html#a28c752a009d85845b5c88c28ce35e39a", null ],
+    [ "read", "classUSBAudio.html#a7de4d8220ce052e721b38ef43b6efb83", null ],
+    [ "read_nb", "classUSBAudio.html#ab6103345c6daa60ec56a584d714e44a9", null ],
+    [ "read_overflows", "classUSBAudio.html#aabf59a94044b52993ee3125b41b1d88a", null ],
+    [ "read_ready", "classUSBAudio.html#ab2ed092ae478e8181096d1477dc03d36", null ],
+    [ "read_wait_ready", "classUSBAudio.html#a3ddc99933051c0120a55c7943420d04b", null ],
+    [ "write", "classUSBAudio.html#a6e4b3dd4426d60adbb243fa65ad3bf9f", null ],
+    [ "write_nb", "classUSBAudio.html#ab1d4f583bb5fdfc844aa8b799d763cf2", null ],
+    [ "write_ready", "classUSBAudio.html#aba236913f5c725d0b64836f2363e0bd8", null ],
+    [ "write_underflows", "classUSBAudio.html#aef58bacce43976d6e36558dd04fe5586", null ],
+    [ "write_wait_ready", "classUSBAudio.html#afa83230c0d0e2c2907b50c025d078563", null ]
+];

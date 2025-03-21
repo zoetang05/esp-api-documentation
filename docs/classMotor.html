@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.13.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>ESP API Documentation: Motor Class Reference</title>
+<title>ESP API: Motor Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -18,12 +18,8 @@
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
-<script type="text/javascript">
-/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-  $(function() { init_search(); });
-/* @license-end */
-</script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div id="top"><!-- do not remove this div, it is closed by doxygen! -->
@@ -32,21 +28,9 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">ESP API Documentation
+   <div id="projectname">ESP API
    </div>
   </td>
-    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
-        <span class="left">
-          <span id="MSearchSelect"                onmouseover="return searchBox.OnSearchSelectShow()"                onmouseout="return searchBox.OnSearchSelectHide()">&#160;</span>
-          <input type="text" id="MSearchField" value="" placeholder="Search" accesskey="S"
-               onfocus="searchBox.OnSearchFieldFocus(true)" 
-               onblur="searchBox.OnSearchFieldFocus(false)" 
-               onkeyup="searchBox.OnSearchFieldChange(event)"/>
-          </span><span class="right">
-            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.svg" alt=""/></a>
-          </span>
-        </div>
-</td>
  </tr>
  </tbody>
 </table>
@@ -63,6 +47,17 @@ var searchBox = new SearchBox("searchBox", "search/",'.html');
 $(function() { codefold.init(0); });
 /* @license-end */
 </script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Search',true);
+  $(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
 </div><!-- top -->
 <div id="side-nav" class="ui-resizable side-nav-resizable">
   <div id="nav-tree">
@@ -112,7 +107,7 @@ $(function(){initNavTree('classMotor.html',''); initResizable(true); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a60943f51cae892e394ecf4efd2d700bd" id="r_a60943f51cae892e394ecf4efd2d700bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a60943f51cae892e394ecf4efd2d700bd">Motor</a> (PinName pwm, PinName bipolar, PinName direction, PinName enable, float period, bool reverse)</td></tr>
+<tr class="memitem:a60943f51cae892e394ecf4efd2d700bd" id="r_a60943f51cae892e394ecf4efd2d700bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a60943f51cae892e394ecf4efd2d700bd">Motor</a> (PinName <a class="el" href="#a88e22e3592f34c1b2abeb79c7bb2cc0c">pwm</a>, PinName <a class="el" href="#ad14a827a39a6063f43678e28f14e3e7d">bipolar</a>, PinName <a class="el" href="#aac951084f1eabe9c0c1c70a5fd43e2bc">direction</a>, PinName <a class="el" href="#aaff7084fc39a55e0e1f8a313b28b9723">enable</a>, float <a class="el" href="#a1d65a54430028041a1e29b56fef5b4a9">period</a>, bool <a class="el" href="#a6a289504aa9e947ee14953f6066cab64">reverse</a>)</td></tr>
 <tr class="separator:a60943f51cae892e394ecf4efd2d700bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a015fd5308d4d27e5dcf7f9ea3d5c03f6" id="r_a015fd5308d4d27e5dcf7f9ea3d5c03f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a015fd5308d4d27e5dcf7f9ea3d5c03f6">stop</a> ()</td></tr>
 <tr class="separator:a015fd5308d4d27e5dcf7f9ea3d5c03f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -125,26 +120,29 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a88e22e3592f34c1b2abeb79c7bb2cc0c" id="r_a88e22e3592f34c1b2abeb79c7bb2cc0c"><td class="memItemLeft" align="right" valign="top"><a id="a88e22e3592f34c1b2abeb79c7bb2cc0c" name="a88e22e3592f34c1b2abeb79c7bb2cc0c"></a>
-PwmOut&#160;</td><td class="memItemRight" valign="bottom"><b>pwm</b></td></tr>
+<tr class="memitem:a88e22e3592f34c1b2abeb79c7bb2cc0c" id="r_a88e22e3592f34c1b2abeb79c7bb2cc0c"><td class="memItemLeft" align="right" valign="top">PwmOut&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a88e22e3592f34c1b2abeb79c7bb2cc0c">pwm</a></td></tr>
+<tr class="memdesc:a88e22e3592f34c1b2abeb79c7bb2cc0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">PWM Signal to send to motor.  <br /></td></tr>
 <tr class="separator:a88e22e3592f34c1b2abeb79c7bb2cc0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad14a827a39a6063f43678e28f14e3e7d" id="r_ad14a827a39a6063f43678e28f14e3e7d"><td class="memItemLeft" align="right" valign="top"><a id="ad14a827a39a6063f43678e28f14e3e7d" name="ad14a827a39a6063f43678e28f14e3e7d"></a>
-DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><b>bipolar</b></td></tr>
+<tr class="memitem:ad14a827a39a6063f43678e28f14e3e7d" id="r_ad14a827a39a6063f43678e28f14e3e7d"><td class="memItemLeft" align="right" valign="top">DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad14a827a39a6063f43678e28f14e3e7d">bipolar</a></td></tr>
+<tr class="memdesc:ad14a827a39a6063f43678e28f14e3e7d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Digital output for setting bipolar/unipolar mode.  <br /></td></tr>
 <tr class="separator:ad14a827a39a6063f43678e28f14e3e7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac951084f1eabe9c0c1c70a5fd43e2bc" id="r_aac951084f1eabe9c0c1c70a5fd43e2bc"><td class="memItemLeft" align="right" valign="top"><a id="aac951084f1eabe9c0c1c70a5fd43e2bc" name="aac951084f1eabe9c0c1c70a5fd43e2bc"></a>
-DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><b>direction</b></td></tr>
+<tr class="memitem:aac951084f1eabe9c0c1c70a5fd43e2bc" id="r_aac951084f1eabe9c0c1c70a5fd43e2bc"><td class="memItemLeft" align="right" valign="top">DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aac951084f1eabe9c0c1c70a5fd43e2bc">direction</a></td></tr>
+<tr class="memdesc:aac951084f1eabe9c0c1c70a5fd43e2bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Digital output for motor direction (in unipolar)  <br /></td></tr>
 <tr class="separator:aac951084f1eabe9c0c1c70a5fd43e2bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaff7084fc39a55e0e1f8a313b28b9723" id="r_aaff7084fc39a55e0e1f8a313b28b9723"><td class="memItemLeft" align="right" valign="top"><a id="aaff7084fc39a55e0e1f8a313b28b9723" name="aaff7084fc39a55e0e1f8a313b28b9723"></a>
-DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><b>enable</b></td></tr>
+<tr class="memitem:aaff7084fc39a55e0e1f8a313b28b9723" id="r_aaff7084fc39a55e0e1f8a313b28b9723"><td class="memItemLeft" align="right" valign="top">DigitalOut&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaff7084fc39a55e0e1f8a313b28b9723">enable</a></td></tr>
+<tr class="memdesc:aaff7084fc39a55e0e1f8a313b28b9723"><td class="mdescLeft">&#160;</td><td class="mdescRight">Digital output for enabling the motor.  <br /></td></tr>
 <tr class="separator:aaff7084fc39a55e0e1f8a313b28b9723"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d65a54430028041a1e29b56fef5b4a9" id="r_a1d65a54430028041a1e29b56fef5b4a9"><td class="memItemLeft" align="right" valign="top"><a id="a1d65a54430028041a1e29b56fef5b4a9" name="a1d65a54430028041a1e29b56fef5b4a9"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>period</b></td></tr>
+<tr class="memitem:a1d65a54430028041a1e29b56fef5b4a9" id="r_a1d65a54430028041a1e29b56fef5b4a9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1d65a54430028041a1e29b56fef5b4a9">period</a></td></tr>
+<tr class="memdesc:a1d65a54430028041a1e29b56fef5b4a9"><td class="mdescLeft">&#160;</td><td class="mdescRight">PWM period in seconds.  <br /></td></tr>
 <tr class="separator:a1d65a54430028041a1e29b56fef5b4a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a289504aa9e947ee14953f6066cab64" id="r_a6a289504aa9e947ee14953f6066cab64"><td class="memItemLeft" align="right" valign="top"><a id="a6a289504aa9e947ee14953f6066cab64" name="a6a289504aa9e947ee14953f6066cab64"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
+<tr class="memitem:a6a289504aa9e947ee14953f6066cab64" id="r_a6a289504aa9e947ee14953f6066cab64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6a289504aa9e947ee14953f6066cab64">reverse</a></td></tr>
+<tr class="memdesc:a6a289504aa9e947ee14953f6066cab64"><td class="mdescLeft">&#160;</td><td class="mdescRight">Inverts the direction pin's behaviour if true.  <br /></td></tr>
 <tr class="separator:a6a289504aa9e947ee14953f6066cab64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00007">7</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a60943f51cae892e394ecf4efd2d700bd" name="a60943f51cae892e394ecf4efd2d700bd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a60943f51cae892e394ecf4efd2d700bd">&#9670;&#160;</a></span>Motor()</h2>
 
@@ -196,6 +194,8 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
   </dd>
 </dl>
 
+<p class="definition">Definition at line <a class="el" href="Motor_8cpp_source.html#l00003">3</a> of file <a class="el" href="Motor_8cpp_source.html">Motor.cpp</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -220,6 +220,8 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
   </dd>
 </dl>
 
+<p class="definition">Definition at line <a class="el" href="Motor_8cpp_source.html#l00022">22</a> of file <a class="el" href="Motor_8cpp_source.html">Motor.cpp</a>.</p>
+
 </div>
 </div>
 <a id="a015fd5308d4d27e5dcf7f9ea3d5c03f6" name="a015fd5308d4d27e5dcf7f9ea3d5c03f6"></a>
@@ -237,6 +239,8 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Set speed to 0 </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8cpp_source.html#l00021">21</a> of file <a class="el" href="Motor_8cpp_source.html">Motor.cpp</a>.</p>
 
 </div>
 </div>
@@ -256,6 +260,8 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
 </div><div class="memdoc">
 <p>Change direction pin to rotate backwards </p>
 
+<p class="definition">Definition at line <a class="el" href="Motor_8cpp_source.html#l00024">24</a> of file <a class="el" href="Motor_8cpp_source.html">Motor.cpp</a>.</p>
+
 </div>
 </div>
 <a id="a04a7fbed886274ff8227cbf52b843250" name="a04a7fbed886274ff8227cbf52b843250"></a>
@@ -274,12 +280,167 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>reverse</b></td></tr>
 </div><div class="memdoc">
 <p>Change direction pin to rotate forwards </p>
 
+<p class="definition">Definition at line <a class="el" href="Motor_8cpp_source.html#l00023">23</a> of file <a class="el" href="Motor_8cpp_source.html">Motor.cpp</a>.</p>
+
 </div>
 </div>
-<hr/>The documentation for this class was generated from the following files:<ul>
-<li><a class="el" href="Motor_8h_source.html">Motor.h</a></li>
-<li><b>Motor.cpp</b></li>
-</ul>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ad14a827a39a6063f43678e28f14e3e7d" name="ad14a827a39a6063f43678e28f14e3e7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad14a827a39a6063f43678e28f14e3e7d">&#9670;&#160;</a></span>bipolar</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">DigitalOut Motor::bipolar</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Digital output for setting bipolar/unipolar mode. </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00051">51</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
+<a id="aac951084f1eabe9c0c1c70a5fd43e2bc" name="aac951084f1eabe9c0c1c70a5fd43e2bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac951084f1eabe9c0c1c70a5fd43e2bc">&#9670;&#160;</a></span>direction</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">DigitalOut Motor::direction</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Digital output for motor direction (in unipolar) </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00052">52</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
+<a id="aaff7084fc39a55e0e1f8a313b28b9723" name="aaff7084fc39a55e0e1f8a313b28b9723"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaff7084fc39a55e0e1f8a313b28b9723">&#9670;&#160;</a></span>enable</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">DigitalOut Motor::enable</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Digital output for enabling the motor. </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00053">53</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
+<a id="a1d65a54430028041a1e29b56fef5b4a9" name="a1d65a54430028041a1e29b56fef5b4a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d65a54430028041a1e29b56fef5b4a9">&#9670;&#160;</a></span>period</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Motor::period</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>PWM period in seconds. </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00054">54</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
+<a id="a88e22e3592f34c1b2abeb79c7bb2cc0c" name="a88e22e3592f34c1b2abeb79c7bb2cc0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88e22e3592f34c1b2abeb79c7bb2cc0c">&#9670;&#160;</a></span>pwm</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">PwmOut Motor::pwm</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>PWM Signal to send to motor. </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00050">50</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
+<a id="a6a289504aa9e947ee14953f6066cab64" name="a6a289504aa9e947ee14953f6066cab64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a289504aa9e947ee14953f6066cab64">&#9670;&#160;</a></span>reverse</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Motor::reverse</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel protected">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Inverts the direction pin's behaviour if true. </p>
+
+<p class="definition">Definition at line <a class="el" href="Motor_8h_source.html#l00055">55</a> of file <a class="el" href="Motor_8h_source.html">Motor.h</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.13.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>ESP API Documentation: Menu.h Source File</title>
+<title>ESP API: Menu.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -18,12 +18,8 @@
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
-<script type="text/javascript">
-/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-  $(function() { init_search(); });
-/* @license-end */
-</script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div id="top"><!-- do not remove this div, it is closed by doxygen! -->
@@ -32,21 +28,9 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">ESP API Documentation
+   <div id="projectname">ESP API
    </div>
   </td>
-    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
-        <span class="left">
-          <span id="MSearchSelect"                onmouseover="return searchBox.OnSearchSelectShow()"                onmouseout="return searchBox.OnSearchSelectHide()">&#160;</span>
-          <input type="text" id="MSearchField" value="" placeholder="Search" accesskey="S"
-               onfocus="searchBox.OnSearchFieldFocus(true)" 
-               onblur="searchBox.OnSearchFieldFocus(false)" 
-               onkeyup="searchBox.OnSearchFieldChange(event)"/>
-          </span><span class="right">
-            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.svg" alt=""/></a>
-          </span>
-        </div>
-</td>
  </tr>
  </tbody>
 </table>
@@ -63,6 +47,17 @@ var searchBox = new SearchBox("searchBox", "search/",'.html');
 $(function() { codefold.init(0); });
 /* @license-end */
 </script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Search',true);
+  $(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
 </div><!-- top -->
 <div id="side-nav" class="ui-resizable side-nav-resizable">
   <div id="nav-tree">
@@ -117,44 +112,50 @@ $(function(){initNavTree('Menu_8h_source.html',''); initResizable(true); });
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="classMenu.html">   12</a></span><span class="keyword">class </span><a class="code hl_function" href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu</a></div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>{</div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="keyword">public</span>:</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    <a class="code hl_function" href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu</a>(C12832 &amp;lcd);</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span></div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a35656cd130e24d69383a5c9d0a73a38c">run</a>();</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span></div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">addMenuItem</a>(<span class="keyword">const</span> <span class="keywordtype">char</span>* name, <span class="keywordtype">void</span> (*function)());</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span></div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">drawMenu</a>();</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span></div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">moveUp</a>();</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span></div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abbec620bd41608fba287400ead4467aa">moveDown</a>();</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    </div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">select</a>();</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span></div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">runOption</a>();</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span></div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_function" href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">exitRequested</a>();</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span> </div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span><span class="keyword">protected</span>:</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    C12832 &amp;lcd;</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>    std::vector&lt;std::pair&lt;<span class="keyword">const</span> <span class="keywordtype">char</span>*, void (*)()&gt;&gt; menu;</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    <span class="keywordtype">int</span> selected_option = 1;</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    <span class="keywordtype">bool</span> option_selected = <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    <span class="keywordtype">bool</span> redraw_menu = <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    <span class="keywordtype">bool</span> exit_requested = <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>};</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <a class="code hl_function" href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu</a>(C12832 &amp;<a class="code hl_variable" href="classMenu.html#ab2ce39cf6743dd20880fe5b3c6bcbf70">lcd</a>);</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span></div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a35656cd130e24d69383a5c9d0a73a38c">run</a>();</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span></div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">addMenuItem</a>(<span class="keyword">const</span> <span class="keywordtype">char</span>* name, <span class="keywordtype">void</span> (*function)());</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span></div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">drawMenu</a>();</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span></div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">moveUp</a>();</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span></div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#abbec620bd41608fba287400ead4467aa">moveDown</a>();</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    </div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">select</a>();</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span></div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">runOption</a>();</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span></div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_function" href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">exitRequested</a>();</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span><span class="keyword">protected</span>:</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno"><a class="line" href="classMenu.html#ab2ce39cf6743dd20880fe5b3c6bcbf70">   62</a></span>    C12832 &amp;<a class="code hl_variable" href="classMenu.html#ab2ce39cf6743dd20880fe5b3c6bcbf70">lcd</a>; </div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno"><a class="line" href="classMenu.html#aba7213d945b53ca06668bba69d8124f0">   63</a></span>    std::vector&lt;std::pair&lt;<span class="keyword">const</span> <span class="keywordtype">char</span>*, void (*)()&gt;&gt; <a class="code hl_variable" href="classMenu.html#aba7213d945b53ca06668bba69d8124f0">menu</a>; </div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno"><a class="line" href="classMenu.html#a891efa78b7cab0a3c40d52a2adef5696">   64</a></span>    <span class="keywordtype">int</span> <a class="code hl_variable" href="classMenu.html#a891efa78b7cab0a3c40d52a2adef5696">selected_option</a> = 1; </div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno"><a class="line" href="classMenu.html#a5a97133a94b7d315767dec1bffa02043">   65</a></span>    <span class="keywordtype">bool</span> <a class="code hl_variable" href="classMenu.html#a5a97133a94b7d315767dec1bffa02043">option_selected</a> = <span class="keyword">false</span>; </div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno"><a class="line" href="classMenu.html#a8d832e5a40406b4e1cb34b07868fbbd8">   66</a></span>    <span class="keywordtype">bool</span> <a class="code hl_variable" href="classMenu.html#a8d832e5a40406b4e1cb34b07868fbbd8">redraw_menu</a> = <span class="keyword">true</span>;  </div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno"><a class="line" href="classMenu.html#ac95d447323e01fa135f18d124d2a901e">   67</a></span>    <span class="keywordtype">bool</span> <a class="code hl_variable" href="classMenu.html#ac95d447323e01fa135f18d124d2a901e">exit_requested</a> = <span class="keyword">false</span>; </div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>};</div>
 </div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span><span class="preprocessor">#endif</span></div>
-<div class="ttc" id="aclassMenu_html_a06aa310db0ce0373a6b5fed1be8cd500"><div class="ttname"><a href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">Menu::select</a></div><div class="ttdeci">void select()</div><div class="ttdef"><b>Definition</b> Menu.cpp:60</div></div>
-<div class="ttc" id="aclassMenu_html_a0fed6c02b7de1b1a9cdf08bd5c1a0e96"><div class="ttname"><a href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">Menu::runOption</a></div><div class="ttdeci">void runOption()</div><div class="ttdef"><b>Definition</b> Menu.cpp:64</div></div>
-<div class="ttc" id="aclassMenu_html_a35656cd130e24d69383a5c9d0a73a38c"><div class="ttname"><a href="classMenu.html#a35656cd130e24d69383a5c9d0a73a38c">Menu::run</a></div><div class="ttdeci">void run()</div><div class="ttdef"><b>Definition</b> Menu.cpp:6</div></div>
-<div class="ttc" id="aclassMenu_html_a5ae056550559d12f8e542f9489dc9fa1"><div class="ttname"><a href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">Menu::exitRequested</a></div><div class="ttdeci">bool const exitRequested()</div><div class="ttdef"><b>Definition</b> Menu.cpp:76</div></div>
-<div class="ttc" id="aclassMenu_html_a6b4be36a23ea95311eeb67493e8b466e"><div class="ttname"><a href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">Menu::addMenuItem</a></div><div class="ttdeci">void addMenuItem(const char *name, void(*function)())</div><div class="ttdef"><b>Definition</b> Menu.cpp:18</div></div>
-<div class="ttc" id="aclassMenu_html_a9df102abcebc51e69c4728dc3d3c3be0"><div class="ttname"><a href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">Menu::drawMenu</a></div><div class="ttdeci">void drawMenu()</div><div class="ttdef"><b>Definition</b> Menu.cpp:22</div></div>
-<div class="ttc" id="aclassMenu_html_abbec620bd41608fba287400ead4467aa"><div class="ttname"><a href="classMenu.html#abbec620bd41608fba287400ead4467aa">Menu::moveDown</a></div><div class="ttdeci">void moveDown()</div><div class="ttdef"><b>Definition</b> Menu.cpp:50</div></div>
-<div class="ttc" id="aclassMenu_html_abfa1619b1d868d85b3978f5918c2a56f"><div class="ttname"><a href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">Menu::moveUp</a></div><div class="ttdeci">void moveUp()</div><div class="ttdef"><b>Definition</b> Menu.cpp:43</div></div>
-<div class="ttc" id="aclassMenu_html_ae5240346d3c28bb6d2c06874013d4375"><div class="ttname"><a href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu::Menu</a></div><div class="ttdeci">Menu(C12832 &amp;lcd)</div><div class="ttdef"><b>Definition</b> Menu.cpp:3</div></div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span> </div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclassMenu_html_a06aa310db0ce0373a6b5fed1be8cd500"><div class="ttname"><a href="classMenu.html#a06aa310db0ce0373a6b5fed1be8cd500">Menu::select</a></div><div class="ttdeci">void select()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00060">Menu.cpp:60</a></div></div>
+<div class="ttc" id="aclassMenu_html_a0fed6c02b7de1b1a9cdf08bd5c1a0e96"><div class="ttname"><a href="classMenu.html#a0fed6c02b7de1b1a9cdf08bd5c1a0e96">Menu::runOption</a></div><div class="ttdeci">void runOption()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00064">Menu.cpp:64</a></div></div>
+<div class="ttc" id="aclassMenu_html_a35656cd130e24d69383a5c9d0a73a38c"><div class="ttname"><a href="classMenu.html#a35656cd130e24d69383a5c9d0a73a38c">Menu::run</a></div><div class="ttdeci">void run()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00006">Menu.cpp:6</a></div></div>
+<div class="ttc" id="aclassMenu_html_a5a97133a94b7d315767dec1bffa02043"><div class="ttname"><a href="classMenu.html#a5a97133a94b7d315767dec1bffa02043">Menu::option_selected</a></div><div class="ttdeci">bool option_selected</div><div class="ttdoc">Flag whether a menu option has been selected.</div><div class="ttdef"><b>Definition</b> <a href="#l00065">Menu.h:65</a></div></div>
+<div class="ttc" id="aclassMenu_html_a5ae056550559d12f8e542f9489dc9fa1"><div class="ttname"><a href="classMenu.html#a5ae056550559d12f8e542f9489dc9fa1">Menu::exitRequested</a></div><div class="ttdeci">bool const exitRequested()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00076">Menu.cpp:76</a></div></div>
+<div class="ttc" id="aclassMenu_html_a6b4be36a23ea95311eeb67493e8b466e"><div class="ttname"><a href="classMenu.html#a6b4be36a23ea95311eeb67493e8b466e">Menu::addMenuItem</a></div><div class="ttdeci">void addMenuItem(const char *name, void(*function)())</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00018">Menu.cpp:18</a></div></div>
+<div class="ttc" id="aclassMenu_html_a891efa78b7cab0a3c40d52a2adef5696"><div class="ttname"><a href="classMenu.html#a891efa78b7cab0a3c40d52a2adef5696">Menu::selected_option</a></div><div class="ttdeci">int selected_option</div><div class="ttdoc">Index of the currently selected option.</div><div class="ttdef"><b>Definition</b> <a href="#l00064">Menu.h:64</a></div></div>
+<div class="ttc" id="aclassMenu_html_a8d832e5a40406b4e1cb34b07868fbbd8"><div class="ttname"><a href="classMenu.html#a8d832e5a40406b4e1cb34b07868fbbd8">Menu::redraw_menu</a></div><div class="ttdeci">bool redraw_menu</div><div class="ttdoc">Flag whether the menu should be redrawn.</div><div class="ttdef"><b>Definition</b> <a href="#l00066">Menu.h:66</a></div></div>
+<div class="ttc" id="aclassMenu_html_a9df102abcebc51e69c4728dc3d3c3be0"><div class="ttname"><a href="classMenu.html#a9df102abcebc51e69c4728dc3d3c3be0">Menu::drawMenu</a></div><div class="ttdeci">void drawMenu()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00022">Menu.cpp:22</a></div></div>
+<div class="ttc" id="aclassMenu_html_ab2ce39cf6743dd20880fe5b3c6bcbf70"><div class="ttname"><a href="classMenu.html#ab2ce39cf6743dd20880fe5b3c6bcbf70">Menu::lcd</a></div><div class="ttdeci">C12832 &amp; lcd</div><div class="ttdoc">Reference to the LCD display.</div><div class="ttdef"><b>Definition</b> <a href="#l00062">Menu.h:62</a></div></div>
+<div class="ttc" id="aclassMenu_html_aba7213d945b53ca06668bba69d8124f0"><div class="ttname"><a href="classMenu.html#aba7213d945b53ca06668bba69d8124f0">Menu::menu</a></div><div class="ttdeci">std::vector&lt; std::pair&lt; const char *, void(*)()&gt; &gt; menu</div><div class="ttdoc">Array to store menu items with their associated function.</div><div class="ttdef"><b>Definition</b> <a href="#l00063">Menu.h:63</a></div></div>
+<div class="ttc" id="aclassMenu_html_abbec620bd41608fba287400ead4467aa"><div class="ttname"><a href="classMenu.html#abbec620bd41608fba287400ead4467aa">Menu::moveDown</a></div><div class="ttdeci">void moveDown()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00050">Menu.cpp:50</a></div></div>
+<div class="ttc" id="aclassMenu_html_abfa1619b1d868d85b3978f5918c2a56f"><div class="ttname"><a href="classMenu.html#abfa1619b1d868d85b3978f5918c2a56f">Menu::moveUp</a></div><div class="ttdeci">void moveUp()</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00043">Menu.cpp:43</a></div></div>
+<div class="ttc" id="aclassMenu_html_ac95d447323e01fa135f18d124d2a901e"><div class="ttname"><a href="classMenu.html#ac95d447323e01fa135f18d124d2a901e">Menu::exit_requested</a></div><div class="ttdeci">bool exit_requested</div><div class="ttdoc">Flag whether an exit has been requested.</div><div class="ttdef"><b>Definition</b> <a href="#l00067">Menu.h:67</a></div></div>
+<div class="ttc" id="aclassMenu_html_ae5240346d3c28bb6d2c06874013d4375"><div class="ttname"><a href="classMenu.html#ae5240346d3c28bb6d2c06874013d4375">Menu::Menu</a></div><div class="ttdeci">Menu(C12832 &amp;lcd)</div><div class="ttdef"><b>Definition</b> <a href="Menu_8cpp_source.html#l00003">Menu.cpp:3</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

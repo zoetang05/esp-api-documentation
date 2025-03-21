@@ -1,0 +1,25 @@
+var structhciCoreCb__t =
+[
+    [ "aclQueue", "structhciCoreCb__t.html#a61d82da776164f8cb5075c6a22119441", null ],
+    [ "aclQueueHi", "structhciCoreCb__t.html#a640395d14016d969a874610fa96a046d", null ],
+    [ "aclQueueLo", "structhciCoreCb__t.html#a72e312d4bedd01cf426b78363c49291a", null ],
+    [ "advTxPwr", "structhciCoreCb__t.html#af0f7a362632492436f98f8798cc83974", null ],
+    [ "availBufs", "structhciCoreCb__t.html#ac2212817b641681c10373d7c6fd612de", null ],
+    [ "bdAddr", "structhciCoreCb__t.html#a3ab75bf21a142a4388a632a69d09a0be", null ],
+    [ "bufSize", "structhciCoreCb__t.html#a95fe6a438c23087e048e75dd0c49659a", null ],
+    [ "cis", "structhciCoreCb__t.html#af037e744218c02e6a491c10f4952014d", null ],
+    [ "conn", "structhciCoreCb__t.html#a74e13fc01e4f62fe5c700f8cb8a7fc41", null ],
+    [ "extResetSeq", "structhciCoreCb__t.html#a31980814d651ca72369ea888a638d080", null ],
+    [ "leStates", "structhciCoreCb__t.html#a8b40caebc6bebbf3c5035c45dd41c8b6", null ],
+    [ "leSupFeat", "structhciCoreCb__t.html#a930b2289cac295330e76a6b9d7efeb37", null ],
+    [ "locVerInfo", "structhciCoreCb__t.html#acd46e4c7d3def4f0980a530acfa6caa5", null ],
+    [ "maxAdvDataLen", "structhciCoreCb__t.html#aad0905996ec466ea32a0488fcf81f174", null ],
+    [ "maxRxAclLen", "structhciCoreCb__t.html#ae63d71c48fd4c1ebd9546373c07a4ab0", null ],
+    [ "numBufs", "structhciCoreCb__t.html#a446f00f3c993eb2c1295533807217e2e", null ],
+    [ "numCmdPkts", "structhciCoreCb__t.html#a6f9ce228691982f775351bfe194a1c9e", null ],
+    [ "numSupAdvSets", "structhciCoreCb__t.html#a04980abde6022e95a6248073ae098e07", null ],
+    [ "pConnRx", "structhciCoreCb__t.html#ad0f1d9e6d2493539a94c9b8260974883", null ],
+    [ "perAdvListSize", "structhciCoreCb__t.html#ae7e21b3019214d3158209335fba6bc48", null ],
+    [ "resListSize", "structhciCoreCb__t.html#a16f00b7bd533267e752086252f916898", null ],
+    [ "whiteListSize", "structhciCoreCb__t.html#affdebb751d3a4f7fa805c937263de14f", null ]
+];

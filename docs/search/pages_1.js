@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['documentation_0',['ESP API Documentation',['../index.html',1,'']]]
+  ['esp_20api_0',['ESP API',['../index.html',1,'']]]
 ];

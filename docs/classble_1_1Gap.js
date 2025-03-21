@@ -1,0 +1,14 @@
+var classble_1_1Gap =
+[
+    [ "EventHandler", "structble_1_1Gap_1_1EventHandler.html", "structble_1_1Gap_1_1EventHandler" ],
+    [ "PreferredConnectionParams_t", "structble_1_1Gap_1_1PreferredConnectionParams__t.html", "structble_1_1Gap_1_1PreferredConnectionParams__t" ],
+    [ "GapShutdownCallback_t", "classble_1_1Gap.html#a9905be3264ad7139e8f5ba27370091b1", null ],
+    [ "GapShutdownCallbackChain_t", "classble_1_1Gap.html#a3e9a8063f2828fcd1c2e324edcfcf14b", null ],
+    [ "getAddress", "classble_1_1Gap.html#a15c77f99a22f4c2fc0266e348610c2c3", null ],
+    [ "isFeatureSupported", "classble_1_1Gap.html#a3feae5e6af69f687854f0e87b14691ac", null ],
+    [ "onShutdown", "classble_1_1Gap.html#ac2ad5ee12f35c19fc2c1314d0efcb205", null ],
+    [ "onShutdown", "classble_1_1Gap.html#a4f145a661bd06baed703455770d57bbb", null ],
+    [ "onShutdown", "classble_1_1Gap.html#a6e18c3ab48d849f97a11c8792eb05bf1", null ],
+    [ "reset", "classble_1_1Gap.html#a21a6b34f15a8668272e7995cb6257cfb", null ],
+    [ "setEventHandler", "classble_1_1Gap.html#ad4d75eef23362d474ac43db985d4bbbe", null ]
+];

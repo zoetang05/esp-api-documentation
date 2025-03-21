@@ -1,0 +1,53 @@
+var group__netinterface =
+[
+    [ "EthInterface", "classEthInterface.html", [
+      [ "ethInterface", "classEthInterface.html#a78c1d64f82dbec414f5733674f1ba872", null ]
+    ] ],
+    [ "MeshInterface", "classMeshInterface.html", [
+      [ "meshInterface", "classMeshInterface.html#a94a2db61dc3b98277f19edec3bf885c2", null ]
+    ] ],
+    [ "NetworkInterface", "classNetworkInterface.html", [
+      [ "hostbyname_cb_t", "classNetworkInterface.html#ac67b7baaf2a76b42aa31389f12a30c18", null ],
+      [ "add_dns_server", "classNetworkInterface.html#a3139edde05ed56c50f7148db6797ed04", null ],
+      [ "add_event_listener", "classNetworkInterface.html#a37ec536abf894f7bdba6a580aa4c63f7", null ],
+      [ "attach", "classNetworkInterface.html#aff802f87aab01abd0d534ab90fbf85bc", null ],
+      [ "cellularInterface", "classNetworkInterface.html#a4f66cbb98c1120c8993a1f546668b77e", null ],
+      [ "connect", "classNetworkInterface.html#aa7ef54ecbd066f2083e6031bd1f3cb00", null ],
+      [ "disconnect", "classNetworkInterface.html#a1a0b6a1cc662ae2483d9cb58e34671a6", null ],
+      [ "emacInterface", "classNetworkInterface.html#a50f12ade012993be2cf7f42e2bc55a6b", null ],
+      [ "ethInterface", "classNetworkInterface.html#ad8fdbba17a46b87b2897e04bc9c04e51", null ],
+      [ "get_connection_status", "classNetworkInterface.html#a50cbc579ff5ee3bc25a79fc0d562d070", null ],
+      [ "get_dns_server", "classNetworkInterface.html#a00c8e3840f89d07dd983bd109a717b55", null ],
+      [ "get_gateway", "classNetworkInterface.html#a6e55aa4ca170e21bf05ecb0d8767141a", null ],
+      [ "get_interface_name", "classNetworkInterface.html#a06527c89236062d3cdeec0706176938c", null ],
+      [ "get_ip_address", "classNetworkInterface.html#a3caf98844ea0d3a19b2fe7648536be25", null ],
+      [ "get_ipv6_link_local_address", "classNetworkInterface.html#a96d19faf6c3cb811ca8fe540b91453e0", null ],
+      [ "get_mac_address", "classNetworkInterface.html#a44e9c420561d0a7e213440b758dd9105", null ],
+      [ "get_netmask", "classNetworkInterface.html#a6d616489969c13e8bc858a3f670668c7", null ],
+      [ "get_stack", "classNetworkInterface.html#afbc5ee5da78879bd9db852ac6ef97ae6", null ],
+      [ "getaddrinfo", "classNetworkInterface.html#ad7e79fb9b23a868ac3b8a4eca21f4adb", null ],
+      [ "getaddrinfo_async", "classNetworkInterface.html#a61a9c90cfe806e62b118d69d825da5de", null ],
+      [ "gethostbyname", "classNetworkInterface.html#a64cebbbe94d1453474d75555fe9b37bb", null ],
+      [ "gethostbyname_async", "classNetworkInterface.html#a16b40661a2159338f20b90dfdf675c78", null ],
+      [ "gethostbyname_async_cancel", "classNetworkInterface.html#a0e8574fdb15904463225c4e828159093", null ],
+      [ "meshInterface", "classNetworkInterface.html#a6b34d3d20e7d1841e1ee34212d8a6c20", null ],
+      [ "set_as_default", "classNetworkInterface.html#a3b86350f17b547cbf8871d466200a215", null ],
+      [ "set_blocking", "classNetworkInterface.html#a1b9125ac147402e7db658b17ab59c0b3", null ],
+      [ "set_default_parameters", "classNetworkInterface.html#ae397ad3e4cb6c5a3adbcdcd2606e1652", null ],
+      [ "set_dhcp", "classNetworkInterface.html#ab7b6c4eea1704e7be7fd0b9cebe14cb0", null ],
+      [ "set_mac_address", "classNetworkInterface.html#a5777e4a15a153266cd18a7edb62c91bf", null ],
+      [ "set_network", "classNetworkInterface.html#a4b94b4016ef38cb47c3af0c95d09bfd7", null ],
+      [ "wifiInterface", "classNetworkInterface.html#a1f8e041fcc7a5737761187ef8efb1193", null ]
+    ] ],
+    [ "WiFiInterface", "classWiFiInterface.html", [
+      [ "connect", "classWiFiInterface.html#a783cff8cdde624760c360abcffabad99", null ],
+      [ "connect", "classWiFiInterface.html#a4510ac0eaf9c28c602bed98a0789fb46", null ],
+      [ "disconnect", "classWiFiInterface.html#af8e56cfcdde754ab65dad00402f74008", null ],
+      [ "get_rssi", "classWiFiInterface.html#a63a4451befd0b166aa8817c6e1b5012c", null ],
+      [ "scan", "classWiFiInterface.html#a78c30e52e431573172114cd28a25ecd8", null ],
+      [ "set_channel", "classWiFiInterface.html#ada47234a287483d4daa257d78ca97910", null ],
+      [ "set_credentials", "classWiFiInterface.html#a0e9f9cdd651e3210126de6faa2e92b43", null ],
+      [ "set_default_parameters", "classWiFiInterface.html#a8250569a79b1b63b0db04fa5ca9f3cfe", null ],
+      [ "wifiInterface", "classWiFiInterface.html#a5ffdf0f107d7c3f2899513385afeb75a", null ]
+    ] ]
+];

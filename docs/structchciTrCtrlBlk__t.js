@@ -1,0 +1,26 @@
+var structchciTrCtrlBlk__t =
+[
+    [ "cmdCount", "structchciTrCtrlBlk__t.html#a95f2ea5777a75dabb2dd3098cc67bba9", null ],
+    [ "evtCount", "structchciTrCtrlBlk__t.html#a0601ed4132ee705352a5d9f0b65ceda1", null ],
+    [ "handlerId", "structchciTrCtrlBlk__t.html#ae671529ec9adec1609ae7f40ae70646c", null ],
+    [ "maxAclLen", "structchciTrCtrlBlk__t.html#a6f6575a15da9f9027f255fb166754f4c", null ],
+    [ "maxIsoSduLen", "structchciTrCtrlBlk__t.html#a41f4f542970321636a0044248a4e68f7", null ],
+    [ "nextAvailMask", "structchciTrCtrlBlk__t.html#a99536872459441e30cf22c3257ca1537", null ],
+    [ "pDataPending", "structchciTrCtrlBlk__t.html#ae7058ce3cba3572c7fd48ae71fffe291", null ],
+    [ "pRdBuf", "structchciTrCtrlBlk__t.html#af55262eb6ed3398c5c71cc513c82e51b", null ],
+    [ "protCbacks", "structchciTrCtrlBlk__t.html#a1ad67eb47bacc3ed44a20f02a6e1366c", null ],
+    [ "protPending", "structchciTrCtrlBlk__t.html#ac63f35c7b577f00802e7f15d334a4540", null ],
+    [ "pWrBuf", "structchciTrCtrlBlk__t.html#a7e49fb63e97d830e57ff9acbfb700c80", null ],
+    [ "rdBufLen", "structchciTrCtrlBlk__t.html#a0e217b0a3a9d5e134ba6be23a44b1519", null ],
+    [ "rdBufOffs", "structchciTrCtrlBlk__t.html#abe4bb2eaac01dce2d25c3faa5e322f8b", null ],
+    [ "rdHdr", "structchciTrCtrlBlk__t.html#a4cc07e3849450d9c52dea1de8e0181d1", null ],
+    [ "recvCback", "structchciTrCtrlBlk__t.html#ace7c4f274ab6712dd45fb505a650eb18", null ],
+    [ "rxPktState", "structchciTrCtrlBlk__t.html#a655fbcec0380e3bfda86bff840b9e2b9", null ],
+    [ "sendCompleteCback", "structchciTrCtrlBlk__t.html#a25862602a6acdbe5df3856a20558000f", null ],
+    [ "sendHwErrorCback", "structchciTrCtrlBlk__t.html#a3ea0462e460d5b7f8d415709da7b9185", null ],
+    [ "serviceCback", "structchciTrCtrlBlk__t.html#a036114ec2b74e432291a06146b3d82d3", null ],
+    [ "typePending", "structchciTrCtrlBlk__t.html#ac6a1e66283e79cd3616f50a963cc9357", null ],
+    [ "wrBufComp", "structchciTrCtrlBlk__t.html#aa2df9d671403c736d43b87f2bb57c5a8", null ],
+    [ "wrBufLen", "structchciTrCtrlBlk__t.html#a0c02ce595e430f2995f13347dc014547", null ],
+    [ "wrBufOffs", "structchciTrCtrlBlk__t.html#a1b8a7e6e98a6a005edc8d3022af8ee8b", null ]
+];

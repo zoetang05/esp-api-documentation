@@ -3,8 +3,8 @@ var annotated_dup =
     [ "Buffer", "classBuffer.html", "classBuffer" ],
     [ "Menu", "classMenu.html", "classMenu" ],
     [ "Motor", "classMotor.html", "classMotor" ],
-    [ "Motors", "classMotors.html", null ],
-    [ "SamplingSensor", "classSamplingSensor.html", null ],
-    [ "Sensor", "classSensor.html", null ],
-    [ "Sensors", "classSensors.html", null ]
+    [ "Motors", "classMotors.html", "classMotors" ],
+    [ "SamplingSensor", "classSamplingSensor.html", "classSamplingSensor" ],
+    [ "Sensor", "classSensor.html", "classSensor" ],
+    [ "Sensors", "classSensors.html", "classSensors" ]
 ];
